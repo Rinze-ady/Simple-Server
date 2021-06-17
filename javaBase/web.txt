@@ -1,0 +1,6 @@
+land=service.LogInService
+findAll=service.FindAllService
+add=service.AddService
+del=service.DelService
+findById=service.FindByIdService
+update=service.UpdateService
